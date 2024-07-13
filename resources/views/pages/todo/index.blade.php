@@ -3,7 +3,7 @@
     <div class=" container">
         <div class=" row">
             <div class=" col-lg-12 text-center">
-                <h1 class="page-title">Todo page</h1>
+                <h1 class="page-title">Todo pages</h1>
             </div>
         </div>
         <form action="{{ route('todo.store') }}" method="POST" enctype="multipart/form-data">
